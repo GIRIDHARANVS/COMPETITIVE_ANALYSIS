@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+transformers
+huggingface_hub
+matplotlib
+reportlab
+fpdf
